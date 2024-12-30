@@ -81,6 +81,10 @@ button:focus-visible {
     right: 32px;
     gap:0.5rem;
 }
+.card-content {
+  gap: 0.3rem;
+  margin: 0.3rem;
+}
 .card-rating {
   width: fit-content;
   display: flex;
